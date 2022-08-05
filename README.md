@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Seçkin, Junior developer from <img src="https://cdn-icons.flaticon.com/png/512/5111/premium/5111548.png?token=exp=1659721882~hmac=635331448260cce28f309c3e65945669" width="13"/> <b>Antalya, Turkey</b>, currently living in <img src="https://cdn-icons.flaticon.com/png/512/5111/premium/5111548.png?token=exp=1659721882~hmac=635331448260cce28f309c3e65945669" width ="13"/> <b>Antalya, Turkey</b>. </p>
+<p>Welcome to my page! </br> I'm Seçkin, Junior developer from <img src="https://cdn-icons.flaticon.com/png/512/5111/premium/5111548.png?token=exp=1659721882~hmac=635331448260cce28f309c3e65945669" width="13"/> <b>Antalya, Turkey</b>, currently living in <img src="https://cdn-icons.flaticon.com/png/512/5111/premium/5111548.png?token=exp=1659721882~hmac=635331448260cce28f309c3e65945669" width ="13"/> <b>Antalya, Turkey</b>.</p>
+
+<img src="https://c.tenor.com/kq7GyBPPIj0AAAAd/sweaty-speedrunner.gif" />
 
 <h3>Things I code with</h3>
 <p>
