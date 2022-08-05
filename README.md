@@ -2,8 +2,6 @@
 
 <p>Welcome to my page! </br> I'm Seçkin, Junior developer from <img src="https://cdn-icons.flaticon.com/png/512/5111/premium/5111548.png?token=exp=1659721882~hmac=635331448260cce28f309c3e65945669" width="13"/> <b>Antalya, Turkey</b>, currently living in <img src="https://cdn-icons.flaticon.com/png/512/5111/premium/5111548.png?token=exp=1659721882~hmac=635331448260cce28f309c3e65945669" width ="13"/> <b>Antalya, Turkey</b>.</p>
 
-<img src="https://c.tenor.com/kq7GyBPPIj0AAAAd/sweaty-speedrunner.gif" />
-
 <h3>Things I code with</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -25,4 +23,10 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeckinBey&layout=compact)](https://github.com/SeckinBey/github-readme-stats)
+
+<hr/>
+<br/><br/>
+<p align="center"><img src="https://c.tenor.com/RkL40nP5d2QAAAAM/sweat.gif" width="440" height="276"/><p/>
+<h3 align="center">I like writing code.<h3/>
+<br/><br/>
 
