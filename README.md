@@ -16,7 +16,6 @@
 
 <h3>Where to find me</h3>
 <p>
-<a href="https://github.com/SeckinBey" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://open.spotify.com/user/serdemakca?si=6155a523d8844bc6" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 </a> <a href="https://www.linkedin.com/in/seckinakca/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
