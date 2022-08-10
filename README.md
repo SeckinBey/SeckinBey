@@ -24,9 +24,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeckinBey&layout=compact)](https://github.com/SeckinBey/github-readme-stats)
 
-<hr/>
-<br/><br/>
-<p align="center"><img src="https://c.tenor.com/RkL40nP5d2QAAAAM/sweat.gif" width="440" height="276"/><p/>
-<h3 align="center">I like writing code.<h3/>
-<br/><br/>
-
